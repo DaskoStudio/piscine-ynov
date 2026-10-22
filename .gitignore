@@ -1,0 +1,17 @@
+# Go
+*.exe
+*.test
+*.out
+
+# Java
+bin/
+out/
+*.class
+
+# Node
+node_modules/
+
+# OS / éditeur
+.DS_Store
+.idea/
+.vscode/
